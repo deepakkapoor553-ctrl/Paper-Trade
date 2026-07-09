@@ -31,3 +31,7 @@ A full-featured desktop stock trading simulator built with **Java Swing**. Pract
 ```bash
 javac PaperTrade.java
 java PaperTrade
+
+## 🙏 Acknowledgements
+
+Built with ❤️ by Deepak Kapoor
